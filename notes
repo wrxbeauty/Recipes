@@ -1,0 +1,9 @@
+Recipes 
+
+- Created Project folder
+- Created index.js file
+- Command: npm init -y
+- Command: npm i express
+- Navigate to index.js and require express and declare variable
+- Created hompage route, wild card, and listening routes
+- Created Controller folder with recipes.js file
