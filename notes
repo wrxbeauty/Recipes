@@ -15,4 +15,5 @@ Recipes
 - Add views folder with default.jsx
 - Import react at the top of default.jsx
 - Add in default view function and contents
+- Added home.jsx to views folder require needed variables and stub function
 - 
