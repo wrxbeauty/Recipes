@@ -11,4 +11,5 @@ Recipes
 - Added text align to wild card route
 - Set up recipe controller
 - Import recipe controller to index.js
+- Add information to README
 - 
