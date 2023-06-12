@@ -12,4 +12,7 @@ Recipes
 - Set up recipe controller
 - Import recipe controller to index.js
 - Add information to README
+- Add views folder with default.jsx
+- Import react at the top of default.jsx
+- Add in default view function and contents
 - 
