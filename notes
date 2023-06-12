@@ -5,5 +5,10 @@ Recipes
 - Command: npm init -y
 - Command: npm i express
 - Navigate to index.js and require express and declare variable
+- Set up dotenv and .gitignore files
 - Created hompage route, wild card, and listening routes
 - Created Controller folder with recipes.js file
+- Added text align to wild card route
+- Set up recipe controller
+- Import recipe controller to index.js
+- 

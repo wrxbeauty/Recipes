@@ -11,7 +11,11 @@ app.get('/', (req, res) => {
 })
 
 app.get('*', (req, res) => {
-    res.status(404).send('<h1>404 page</h1>')
+    res.status(404).send(`
+        <body>
+            <h1 style="text-align: center">404 page</h1>
+        </body>
+    `)
 })
 
 app.listen(process.env.PRT)
