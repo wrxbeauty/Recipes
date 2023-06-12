@@ -3,6 +3,7 @@ require('dotenv').config()
 const express = require('express');
 const app = express();
 
+// Controllers
 app.use('/recipes', require('./controllers/recipes'))
 
 // Routes
